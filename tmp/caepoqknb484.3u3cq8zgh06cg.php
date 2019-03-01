@@ -1,0 +1,7 @@
+
+  <!-- Custom scripts for this template -->
+  <script src="<?= ($BASE) ?>/ui/site/js/site.js"></script>
+
+</body>
+
+</html>
