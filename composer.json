@@ -2,7 +2,7 @@
   "name": "mrpye/f3boilerplate",
   "description": "F3 Boiler Plate Example",
   "require": {
-    "bcosca/fatfree": "^3.5"
+    "bcosca/fatfree": "*.*"
   },
   "authors": [
     {

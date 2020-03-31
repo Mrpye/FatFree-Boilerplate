@@ -1,5 +1,5 @@
 ## install
-php composer.phar install
+php C:\ProgramData\ComposerSetup\bin\composer.phar install
 
 import Database into mysql data\data.sql
 
